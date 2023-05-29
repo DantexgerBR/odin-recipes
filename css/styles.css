@@ -1,0 +1,60 @@
+@font-face {
+    font-family: "Louis George Café";
+    src: url(../fonts/Louis\ George\ Cafe.ttf);
+}
+
+body{
+    background-image: url("https://img.elo7.com.br/product/zoom/34A8A81/caneca-graphic-design-is-my-passion-cachorro.jpg");
+    background-repeat: repeat;
+    background-size: 5%;
+    background-color: rgb(25, 18, 18);
+}
+
+img {
+    border-style: double;
+}
+
+.food{
+    height: auto;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.sitetitle {
+    border-style: double;
+    text-align: center;
+    font-family: "Louis George Café";
+    font-size: 60px;
+    background-color: rgb(12, 22, 24);
+    color: rgb(246, 190, 154);
+}
+
+ul {
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/3a/c4/fc/3ac4fc5a20b91ac414409aad7a94642c.png");
+    background-size: contain;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a {
+    background-color: black;
+}
+
+li {
+    background-color: black;
+}
+
+p, h3 {
+    background-color: black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
